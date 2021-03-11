@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T04:30:58.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="RQPw5bdIwADt5_esKVSe" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T14:44:47.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="1RriCYWJ9gQOzR9fISQf" version="14.4.4" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1490" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-11" value="getToke（）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-11" value="getToke（uid, roomid）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
@@ -121,7 +121,7 @@
             <mxPoint x="550" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odlqmuHHD26M4DmsH0EI-5" value="call()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="odlqmuHHD26M4DmsH0EI-4" vertex="1" connectable="0">
+        <mxCell id="odlqmuHHD26M4DmsH0EI-5" value="call(uid)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="odlqmuHHD26M4DmsH0EI-4" vertex="1" connectable="0">
           <mxGeometry x="0.1813" y="3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -359,8 +359,18 @@
         <mxCell id="odlqmuHHD26M4DmsH0EI-59" value="&lt;span&gt;眼镜端离开&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="620" y="640" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P2DkG12NdxDLuXwxPzHu-1" value="创建用户默认房间&amp;nbsp;&lt;br&gt;开始会话 开始录像 添加用户进入房间&amp;nbsp; 眼睛用户离开房间 结束会话 结束录像&amp;nbsp; 保存会话记录&lt;br&gt;会话中消息属于所在房间id&amp;nbsp; 会话结束消息属于历史记录 所属房间id置空" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="P2DkG12NdxDLuXwxPzHu-1" value="创建用户默认房间&amp;nbsp;&lt;br&gt;开始会话 开始录像 添加用户进入房间&amp;nbsp; 眼睛用户离开房间 结束会话 结束录像&amp;nbsp; 保存会话记录&lt;br&gt;会话中消息属于所在房间id&amp;nbsp; 会话结束消息属于历史记录 所属房间id置空" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="140" y="-100" width="771" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yd7mBNa5vslCqtSXKkKX-2" value="join(toke)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="151" y="240" as="sourcePoint" />
+            <mxPoint x="151" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="240.10000000000002" />
+              <mxPoint x="200" y="279.1" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

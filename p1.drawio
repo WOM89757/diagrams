@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T06:44:37.929Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="2RSUbUpXMFK6BLx0RmPX" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T06:44:51.041Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="5womgXc9OLw3F-TRjFj9" version="14.5.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1355" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -488,17 +488,6 @@
         <mxCell id="lmHBx10mzdZfqRl4GTMd-162" value="用户" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;fontFamily=Times New Roman;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="130" y="1810" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lmHBx10mzdZfqRl4GTMd-168" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000000;fontFamily=Times New Roman;fontSize=11;align=center;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="2170" as="sourcePoint" />
-            <mxPoint x="170" y="2170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmHBx10mzdZfqRl4GTMd-169" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Times New Roman;" parent="lmHBx10mzdZfqRl4GTMd-168" vertex="1" connectable="0">
-          <mxGeometry x="0.1941" y="1" relative="1" as="geometry">
-            <mxPoint x="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lmHBx10mzdZfqRl4GTMd-163" value="接受？" style="rhombus;whiteSpace=wrap;html=1;gradientColor=none;fontFamily=Times New Roman;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="280" y="1795" width="80" height="80" as="geometry" />
         </mxCell>
@@ -689,7 +678,7 @@
           <mxGeometry x="285" y="3135" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFzdYlKE2sTHoBfN7P8O-114" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 11px&quot;&gt;join（uid, uid, choose）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2380" width="120" height="20" as="geometry" />
+          <mxGeometry x="520" y="2280" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DFzdYlKE2sTHoBfN7P8O-115" value="眼镜&amp;gt;眼镜?" style="rhombus;whiteSpace=wrap;html=1;gradientColor=none;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1230" y="2310" width="80" height="80" as="geometry" />

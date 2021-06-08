@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T09:56:57.793Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cmXYvDjEFDAh2v-a2nbt" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T03:04:23.743Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="hlFzfZg4VgAZ0Ia7x8Xm" version="14.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2646" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2182" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -624,6 +624,12 @@
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-63" value="work queue" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="2030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_RRa5o4qMN4HHWpRwE-u-1" value="&lt;span&gt;设备添加:&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;mtgl add deviceName （create rpcQueue）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;box&amp;nbsp; &amp;nbsp;receive rpcQueue&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&amp;nbsp;摄像机添加、修改、删除、查询、启动、停止:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;add/edit/delete/querry/starrt/stop camera info (send rpcQueue)&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;录像、任务同上;&lt;br&gt;算法分析结果添加:&lt;br&gt;&lt;ul&gt;&lt;li&gt;sub analyticIdResultQueue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;人脸识别注册:&lt;br&gt;&lt;ul&gt;&lt;li&gt;register&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="1640" width="360" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_RRa5o4qMN4HHWpRwE-u-2" value="register&lt;br&gt;service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="1875" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

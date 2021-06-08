@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T03:26:16.932Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="T8Yhe6F1fopJQOiWUCBH" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T04:14:33.375Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6lF_wKbpxoctqoIvl1OJ" version="14.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2182" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,7 +457,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-20" value="box" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;container=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-20" value="box" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="1905" width="180" height="90" as="geometry">
             <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -506,7 +506,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-25" value="mtgl" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-25" value="mtgl" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="1910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-26" value="rpc queue" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#33FFFF;fillColor=#33FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -540,7 +540,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-35" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-35" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="2130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Y4kIFAbHCbc3e0_oAzH-39" target="4Y4kIFAbHCbc3e0_oAzH-30" edge="1">
@@ -559,7 +559,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-45" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-45" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="2250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Y4kIFAbHCbc3e0_oAzH-46" target="4Y4kIFAbHCbc3e0_oAzH-30" edge="1">
@@ -583,7 +583,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-49" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-49" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="2360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Y4kIFAbHCbc3e0_oAzH-50" target="4Y4kIFAbHCbc3e0_oAzH-30" edge="1">
@@ -607,7 +607,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-53" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4Y4kIFAbHCbc3e0_oAzH-53" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="2480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Y4kIFAbHCbc3e0_oAzH-54" target="4Y4kIFAbHCbc3e0_oAzH-30" edge="1">
@@ -640,7 +640,7 @@
           <mxGeometry x="140" y="2030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_RRa5o4qMN4HHWpRwE-u-1" value="&lt;span&gt;设备添加:&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;mtgl add deviceName （create rpcQueue）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;box&amp;nbsp; &amp;nbsp;receive rpcQueue&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&amp;nbsp;摄像机添加、修改、删除、查询、启动、停止:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;add/edit/delete/querry/starrt/stop camera info (send rpcQueue)&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;录像、任务同上;&lt;br&gt;算法分析结果添加,其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;sub analyticIdResultQueue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;人脸识别注册，其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;face register/unregister&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;container=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="1970" width="360" height="430" as="geometry">
+          <mxGeometry x="600" y="2040" width="360" height="430" as="geometry">
             <mxRectangle x="620" y="1970" width="400" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

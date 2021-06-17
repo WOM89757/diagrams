@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T01:26:00.281Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="o2OHK8KEtgq3KJFpvzQU" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T05:25:49.570Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2pn2B_T4AEsuJ4CnXlS7" version="14.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2182" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2421" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -462,7 +462,7 @@
             <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_RRa5o4qMN4HHWpRwE-u-2" value="face register&lt;br&gt;service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="4Y4kIFAbHCbc3e0_oAzH-20">
+        <mxCell id="_RRa5o4qMN4HHWpRwE-u-2" value="face register&lt;br&gt;service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="4Y4kIFAbHCbc3e0_oAzH-20" vertex="1">
           <mxGeometry x="10" y="15" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-28" value="gplugin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="4Y4kIFAbHCbc3e0_oAzH-20" vertex="1">
@@ -639,9 +639,25 @@
         <mxCell id="4Y4kIFAbHCbc3e0_oAzH-63" value="work queue" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#33FFFF;fillColor=#33FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="2030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_RRa5o4qMN4HHWpRwE-u-1" value="&lt;span&gt;设备添加:&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;mtgl add deviceName （create rpcQueue）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;box&amp;nbsp; &amp;nbsp;receive rpcQueue&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&amp;nbsp;摄像机添加、修改、删除、查询、启动、停止:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;add/edit/delete/querry/starrt/stop camera info (send rpcQueue)&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;录像、任务同上;&lt;br&gt;算法分析结果添加,其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;sub analyticIdResultQueue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;人脸识别注册，其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;face register/unregister&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;container=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_RRa5o4qMN4HHWpRwE-u-1" value="&lt;span&gt;设备添加:&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;mtgl add deviceName （create rpcQueue）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;box&amp;nbsp; &amp;nbsp;receive rpcQueue&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&amp;nbsp;摄像机添加、修改、删除、查询、启动、停止:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;add/edit/delete/querry/starrt/stop camera info (send rpcQueue)&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;录像、任务同上;&lt;br&gt;算法分析结果添加,其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;sub analyticIdResultQueue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;人脸识别注册，其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;face register/unregister&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;container=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="2040" width="360" height="430" as="geometry">
             <mxRectangle x="620" y="1970" width="400" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-3" value="box" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="2720" width="750" height="430" as="geometry">
+            <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-7" value="mcu" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ar3VlsiydCS9kkMV2LeA-3">
+          <mxGeometry x="170" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-8" value="edgemgr" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ar3VlsiydCS9kkMV2LeA-3">
+          <mxGeometry x="510" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-6" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ar3VlsiydCS9kkMV2LeA-3">
+          <mxGeometry x="205" y="240" width="340" height="160" as="geometry">
+            <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>

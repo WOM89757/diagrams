@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T05:25:49.570Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2pn2B_T4AEsuJ4CnXlS7" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T10:01:58.672Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5v1LkgPYUBcoR0wAP0Q-" version="14.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2421" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,7 +645,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ar3VlsiydCS9kkMV2LeA-3" value="box" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-360" y="2720" width="750" height="430" as="geometry">
+          <mxGeometry x="-450" y="2870" width="750" height="430" as="geometry">
             <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -657,6 +657,34 @@
         </mxCell>
         <mxCell id="ar3VlsiydCS9kkMV2LeA-6" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ar3VlsiydCS9kkMV2LeA-3">
           <mxGeometry x="205" y="240" width="340" height="160" as="geometry">
+            <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-10" value="recording" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="2850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-11" value="analytic" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="2610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-12" value="camera" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="2720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-13" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; ; font-size: 9.8pt&quot;&gt;storageHost&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="2750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-14" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; ; font-size: 9.8pt&quot;&gt;storageHost&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="2842" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-15" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; ; font-size: 9.8pt&quot;&gt;storageHost&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="2930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-16" value="mtgl" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="3090" width="690" height="270" as="geometry">
+            <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-19" value="smartsite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="3490" width="340" height="160" as="geometry">
             <mxRectangle x="450" y="1860" width="50" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

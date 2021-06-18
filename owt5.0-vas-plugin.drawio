@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T10:11:08.721Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4opoRK1B6b9wo-HQsJMP" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T10:05:59.781Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XfYTW4IJ6bYzjN2r5Szi" version="14.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1956" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2421" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1090,7 +1090,12 @@
           <mxGeometry x="1080" y="3220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ar3VlsiydCS9kkMV2LeA-104" value="box" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="782.5" y="3300" width="127" height="60" as="geometry" />
+          <mxGeometry x="810" y="3230" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ar3VlsiydCS9kkMV2LeA-105" value="&lt;span&gt;设备添加:&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;mtgl add deviceName （create rpcQueue）&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;box&amp;nbsp; &amp;nbsp;receive rpcQueue&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&amp;nbsp;摄像机添加、修改、删除、查询、启动、停止:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;add/edit/delete/querry/starrt/stop camera info (send rpcQueue)&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;录像、任务同上;&lt;br&gt;算法分析结果添加,其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;sub analyticIdResultQueue&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;人脸识别注册，其余同上:&lt;br&gt;&lt;ul&gt;&lt;li&gt;choose device&lt;/li&gt;&lt;li&gt;face register/unregister&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;container=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-350" y="3450" width="360" height="430" as="geometry">
+            <mxRectangle x="620" y="1970" width="400" height="270" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

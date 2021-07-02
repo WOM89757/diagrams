@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T00:51:30.218Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Zqt4EVjqASl61SZBnIHY" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T01:28:30.134Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="dB4pJjWolIShcv4CRwNi" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1956" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1273,6 +1273,21 @@
         </mxCell>
         <mxCell id="vbBAnHKNHRhSfW5NKzX_-26" value="base64 img" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="3630" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vbBAnHKNHRhSfW5NKzX_-27" value="person" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="3770" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vbBAnHKNHRhSfW5NKzX_-28" value="rabbitmq" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="3700" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vbBAnHKNHRhSfW5NKzX_-29" value="rabbitmq" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-145" y="3730" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vbBAnHKNHRhSfW5NKzX_-30" value="imgQueue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="3570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vbBAnHKNHRhSfW5NKzX_-31" value="commonQueue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="3620" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
